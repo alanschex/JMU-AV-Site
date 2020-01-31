@@ -5,27 +5,31 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#home"
   weight = 10
-
 [[main]]
-  name = "Updates"
-  url = "#updates"
+  name= "About"
+  url = "#about"
   weight = 20
 
 [[main]]
-  name = "The Cart"
-  url = "#thecart"
+  name = "Progress"
+  url = "#progress"
+  weight = 40
+
+[[main]]
+  name = "People"
+  url = "#people"
   weight = 30
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 50
 
 [[main]]
   name = "Contact Us"
-  url = "#contactus"
+  url = "#contact"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
