@@ -24,7 +24,7 @@ interests:
 - Human Computer Interaction
 
 education:
-  - course: BS in Computer Science
+  - degree: BS in Computer Science
     institution: James Madison University
     year: 2012
 
@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'alan.schexnayder@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:alan.schexnayder@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/alanschex
