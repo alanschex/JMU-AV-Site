@@ -24,7 +24,7 @@ interests:
 - Human Computer Interaction
 
 education:
-  - degree: BS in Computer Science
+  - course: BS in Computer Science
     institution: James Madison University
     year: 2012
 
