@@ -13,8 +13,8 @@
   weight = 20
 
 [[main]]
-  name = "Progress"
-  url = "#progress"
+  name = "Projects"
+  url = "#projects"
   weight = 40
 
 [[main]]
